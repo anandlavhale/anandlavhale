@@ -40,7 +40,9 @@
 ---
 
 ### 🐍 Contribution Graph Animation
+
 ![Snake animation](https://raw.githubusercontent.com/anandlavhale/anandlavhale/output/github-contribution-grid-snake.svg)
+
 
 
 ---
