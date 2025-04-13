@@ -1,53 +1,79 @@
-## 👋 Hi there, I'm Anand!
+<h1 align="center">Hey there, I'm Anand 👋</h1>
 
-🎓 Second-year Electronics & Telecommunication student at PICT  
-💡 Passionate about Full Stack Development | Web3 | Hackathons  
-🚀 Currently building: [EduConnect](https://github.com/anandlavhale/Educonnect1)  
-📚 Learning: Backend APIs • Firebase • MongoDB • Dynamic UI with React  
+<p align="center">Student | Builder | Thinker | Trying to make sense of the world through tech</p>
 
 ---
 
-### 📊 My GitHub Stats
+### 🧠 A Bit About Me
+
+I’m currently a second-year ENTC student at PICT, trying to figure out not just how to write better code—but how to **build things that matter**.
+
+Over the past year, I’ve started to see software not just as assignments or projects, but as a tool to bring change. I love learning how things work, breaking them down, and slowly building them back up in my own way.
+
+---
+
+### 🔧 What I'm Learning / Working On
+
+- Full Stack Development (React + Node + MongoDB/Firebase)
+- Real-time apps that solve real problems
+- APIs, automation, and backend logic
+- Writing cleaner, meaningful code
+- Understanding the “why” before the “how”
+
+---
+
+### 🛠️ Tech I’ve Been Using
+
+- **Frontend**: HTML, CSS, JS, React, Tailwind
+- **Backend**: Node.js, Express, Firebase, MySQL, MongoDB
+- **Tools**: Git, GitHub, VS Code, Postman, Vite, Android Studio
+- **APIs & Services**: Twilio, Firebase Realtime DB, SMS Parsers
+
+---
+
+### 📌 Some Projects Close to My Heart
+
+- **EduConnect**: A teacher-student platform to simplify class schedules  
+- **Investify**: A micro-investment idea where your spending habits become savings  
+- **Emergency QR Alert System**: QR-based system for sending emergency alerts  
+- **Teacher Schedule Manager**: For helping faculty and students stay in sync  
+
+Most of these were built out of curiosity, some for hackathons, and a few just because I couldn’t stop thinking about the problem.
+
+---
+
+### 💭 What I Believe
+
+- It’s okay to not know everything—what matters is **showing up** and **learning anyway**
+- Tech should feel like **magic**, but be grounded in **empathy**
+- Building alone is great. **Building together** is even better
+- Small things done well > Big things half-finished
+
+---
+
+### 📈 GitHub Activity
 
 ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandlavhale&show_icons=true&theme=dracula)
 ![GitHub Streak](https://streak-stats.demolab.com?user=anandlavhale&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandlavhale&layout=compact&theme=gruvbox)
 
 ---
 
-### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)  
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
-
----
-
-### 🔥 Featured Projects
-
-- 🎯 [EduConnect](https://github.com/anandlavhale/Educonnect1) – Dynamic teacher feedback platform with animated UI & backend APIs  
-- 💸 Investify (coming soon!) – Micro-investment app that rounds up and invests spare change
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandlavhale)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anandlavhale@gmail.com)
-
----
-
-### 🐍 Contribution Graph Animation
+### 🐍 Contributions in Motion
 
 ![Snake animation](https://raw.githubusercontent.com/anandlavhale/anandlavhale/output/github-contribution-grid-snake.svg)
 
+---
 
+### 💬 Let’s Connect
+
+- If you want to collaborate on cool projects
+- If you just want to talk tech, college life, or random thoughts
+- Or if you're just passing by—thanks for being here :)
+
+📩 anandlavhale0@gmail.com  
+🔗 [LinkedIn]([https://www.linkedin.com/in/anandlavhale/](https://www.linkedin.com/in/anand-lavhale-014981313))
 
 ---
 
-> 🧠 *“Learn. Build. Share. Repeat.”*
-
-
+> *"Learn. Build. Share. Repeat."* 🧠
 
