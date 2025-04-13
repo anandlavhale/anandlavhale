@@ -62,6 +62,7 @@ Most of these were built out of curiosity, some for hackathons, and a few just b
 
 ![Snake animation](https://raw.githubusercontent.com/anandlavhale/anandlavhale/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 ### 💬 Let’s Connect
