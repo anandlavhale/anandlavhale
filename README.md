@@ -24,7 +24,7 @@ Over the past year, I’ve stopped seeing software as just a subject—and start
 
 ### 🧰 Tech Stack I Love Using
 
-- **Frontend**: HTML, CSS, JavaScript, React, TailwindCSS  
+- **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express.js, Firebase, MySQL, MongoDB  
 - **Tools**: Git & GitHub, VS Code, Postman, Vite, Android Studio  
 - **APIs & Services**: Twilio, Firebase Realtime DB, SMS Parsers
@@ -38,7 +38,7 @@ These aren't just projects—they're ideas that kept me up at night (in a good w
 - 🔔 **EduConnect** – A teacher-student platform for organizing schedules  
 - 💰 **Investify** – A micro-investment platform where *spending = saving*  
 - 🆘 **Emergency QR Alert System** – A QR-based system for real-time emergency alerts  
-- 🧑‍🏫 **Teacher Schedule Manager** – Keeping faculty and students in sync  
+ 
 
 Some were built during hackathons, others during solo sprints, but all were fueled by curiosity.
 
