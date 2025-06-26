@@ -1,80 +1,76 @@
 <h1 align="center">Hey there, I'm Anand 👋</h1>
 
-<p align="center">Student | Builder | Thinker | Trying to make sense of the world through tech</p>
+<p align="center">Student 👨‍🎓 | Builder 🛠 | Thinker 💭 | Turning caffeine & curiosity into code 🚀</p>
 
 ---
 
-### 🧠 A Bit About Me
+### 🧠 Who Am I?
 
-I’m currently a second-year ENTC student at PICT, trying to figure out not just how to write better code—but how to **build things that matter**.
+I'm a third-year ENTC student at **PICT**, but more than that—I'm someone who's obsessed with the *why* behind the *what*. Whether it’s a React component or a real-world problem, I love breaking things down, understanding them inside out, and rebuilding them better.
 
-Over the past year, I’ve started to see software not just as assignments or projects, but as a tool to bring change. I love learning how things work, breaking them down, and slowly building them back up in my own way.
-
----
-
-### 🔧 What I'm Learning / Working On
-
-- Full Stack Development (React + Node + MongoDB/Firebase)
-- Real-time apps that solve real problems
-- APIs, automation, and backend logic
-- Writing cleaner, meaningful code
-- Understanding the “why” before the “how”
+Over the past year, I’ve stopped seeing software as just a subject—and started seeing it as a superpower. 💡
 
 ---
 
-### 🛠️ Tech I’ve Been Using
+### 🔍 Currently Exploring
 
-- **Frontend**: HTML, CSS, JS, React, Tailwind
-- **Backend**: Node.js, Express, Firebase, MySQL, MongoDB
-- **Tools**: Git, GitHub, VS Code, Postman, Vite, Android Studio
+- 🧱 Full Stack Development (React ⚛ + Node.js + Firebase/MongoDB)
+- ⚡ Real-time applications that solve everyday problems
+- 🔐 Clean APIs, automation, and backend systems that *just work*
+- 🧼 Writing cleaner, readable code
+- 🤔 Thinking deeper: **"Why are we building this?"** before "How?"
+
+---
+
+### 🧰 Tech Stack I Love Using
+
+- **Frontend**: HTML, CSS, JavaScript, React, TailwindCSS  
+- **Backend**: Node.js, Express.js, Firebase, MySQL, MongoDB  
+- **Tools**: Git & GitHub, VS Code, Postman, Vite, Android Studio  
 - **APIs & Services**: Twilio, Firebase Realtime DB, SMS Parsers
 
 ---
 
-### 📌 Some Projects Close to My Heart
+### ❤️ Projects That Mean a Lot to Me
 
-- **EduConnect**: A teacher-student platform to simplify class schedules  
-- **Investify**: A micro-investment idea where your spending habits become savings  
-- **Emergency QR Alert System**: QR-based system for sending emergency alerts  
-- **Teacher Schedule Manager**: For helping faculty and students stay in sync  
+These aren't just projects—they're ideas that kept me up at night (in a good way):
 
-Most of these were built out of curiosity, some for hackathons, and a few just because I couldn’t stop thinking about the problem.
+- 🔔 **EduConnect** – A teacher-student platform for organizing schedules  
+- 💰 **Investify** – A micro-investment platform where *spending = saving*  
+- 🆘 **Emergency QR Alert System** – A QR-based system for real-time emergency alerts  
+- 🧑‍🏫 **Teacher Schedule Manager** – Keeping faculty and students in sync  
 
----
-
-### 💭 What I Believe
-
-- It’s okay to not know everything—what matters is **showing up** and **learning anyway**
-- Tech should feel like **magic**, but be grounded in **empathy**
-- Building alone is great. **Building together** is even better
-- Small things done well > Big things half-finished
+Some were built during hackathons, others during solo sprints, but all were fueled by curiosity.
 
 ---
 
-### 📈 GitHub Activity
+### 💡 What I Believe In
 
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandlavhale&show_icons=true&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com?user=anandlavhale&theme=tokyonight)
-
----
-
-### 🐍 Contributions in Motion
-
-![Snake animation](https://raw.githubusercontent.com/anandlavhale/anandlavhale/output/github-contribution-grid-snake.svg)
-
+- 🌱 You don’t have to know everything—just start, show up, and **keep learning**  
+- 💖 Code is cooler when it’s backed by **empathy**  
+- 🧠 It’s okay to break things—**that’s how you learn to build better**  
+- 🧩 Small details matter more than we realize  
+- 🤝 **Community over competition**, always
 
 ---
 
-### 💬 Let’s Connect
+### 🧠 LeetCode Stats (250+ Problems Solved & Still Grinding)
 
-- If you want to collaborate on cool projects
-- If you just want to talk tech, college life, or random thoughts
-- Or if you're just passing by—thanks for being here :)
-
-📩 anandlavhale0@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/anandlavhale/](https://www.linkedin.com/in/anand-lavhale-014981313))
+[![LeetCode Stats](https://leetcard.jacoblin.cool/anandlavhale?ext=heatmap&theme=dark)](https://leetcode.com/anandlavhale/)
 
 ---
 
-> *"Learn. Build. Share. Repeat."* 🧠
 
+
+### ☕ Let’s Connect & Collaborate
+
+- 🧠 Want to brainstorm or build something together?
+- 🤝 Looking for someone to debug life (or code) with?
+- 👀 Just exploring? Thanks for dropping by—you're awesome!
+
+📬 anandlavhale0@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/anand-lavhale-014981313)
+
+---
+
+> _“Learn. Build. Share. Repeat.”_ 🔁✨
